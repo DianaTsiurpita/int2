@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+artifacts/
+.venv/
+.pytest_cache/
+.idea/
+secrets/*
+!secrets/*.example
+!secrets/README.md
+
+backups/
